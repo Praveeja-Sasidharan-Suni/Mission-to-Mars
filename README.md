@@ -32,7 +32,7 @@ Using BeautifulSoup and Splinter, we will scrape full-resolution images of Marsâ
 ![code_hemisphere_links.PNG](https://github.com/Praveeja-Sasidharan-Suni/Mission-to-Mars/blob/main/Images/code_hemisphere_links.PNG?raw=true)
 
 
-![challenge_code_hemisphere_links.PNG](https://github.com/Praveeja-Sasidharan-Suni/Mission-to-Mars/blob/main/Images/challenge_code_hemisphere_links.PNG
+![challenge_code_hemisphere_links.PNG](https://github.com/Praveeja-Sasidharan-Suni/Mission-to-Mars/blob/main/Images/challenge_code_hemisphere_links.PNG?raw=true)
 
 
 
